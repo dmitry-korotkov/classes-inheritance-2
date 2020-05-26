@@ -1,6 +1,4 @@
 import Bowman from '../js/classes/Bowman';
-import Character from '../js/classes/Character';
-
 
 test('get bowman', () => {
   const bowman = new Bowman('killer228');
