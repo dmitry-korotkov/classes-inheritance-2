@@ -8,6 +8,7 @@ test('get bowman', () => {
     health: 100,
     attack: 25,
     defense: 25,
+    type: 'Bowman',
   });
 });
 
@@ -18,8 +19,9 @@ test('get levelup bowman', () => {
     name: 'killer228',
     level: 2,
     health: 100,
-    attack: 25,
-    defense: 25,
+    attack: 30,
+    defense: 30,
+    type: 'Bowman',
   });
 });
 
